@@ -22,3 +22,6 @@ python main.py --mode train --load-model ../raml/model.bin
 ```
 python main.py --mode decode --output out.txt
 ```
+
+## Acknowledgments
+This repository is built upon [pcyin/pytorch_basic_nmt](https://github.com/pcyin/pytorch_basic_nmt)
