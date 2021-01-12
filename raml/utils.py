@@ -43,7 +43,7 @@ def read_test_corpus(file_path):
 
     return data_src, data_aspect
 
-""" 读入所有品类的aspect词表 """
+
 def read_aspect_file(file_path):
     filemaps = open(file_path + "/maps")
     maps = {}
