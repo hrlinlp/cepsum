@@ -2,7 +2,9 @@
 
 Pytorch implementation for our AAAI-2020 paper: Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products
 
-If you are interested in our dataset, please fill out the [application form](https://drive.google.com/open?id=19gRK45LLczLxFg_n6qbW4gXyOOla9_wu) and email us.
+If you are interested in our dataset, please fill out the [application form](https://github.com/hrlinlp/cepsum/files/8858425/application.form.pdf) and email us.
+
+
 
 ## Requirement
 Python2.7, PyTorch v0.4.1
